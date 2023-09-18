@@ -6,6 +6,7 @@ This repository provides source code for this paper
 ## Requirement
 - numpy 1.19.5
 - pandas 1.3.5
+- matplotlib 3.5.3
 - python 3.7.6
 - scikit-learn 1.0.2
 - tensorflow 2.5.0
