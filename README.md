@@ -11,7 +11,6 @@
 ## Cite
 <pre>
 <code>
-
   @Article{s21186229,
   AUTHOR = {Lee, Jaeseung and Choi, Woojin and Kim, Jibum},
   TITLE = {A Cost-Effective CNN-LSTM-Based Solution for Predicting Faulty Remote Water Meter Reading Devices in AMI Systems},
@@ -23,6 +22,5 @@
   PubMedID = {34577436},
   ISSN = {1424-8220}
   }
-  
 </code>
 </pre>
