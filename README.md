@@ -1,5 +1,6 @@
 # Water_AMI
 This repository provides source code for this paper
+
 [A Cost-Effective CNN-LSTM-Based Solution for Predicting Faulty Remote Water Meter Reading Devices in AMI Systems](https://www.mdpi.com/1424-8220/21/18/6229)
 
 ## Requirement
