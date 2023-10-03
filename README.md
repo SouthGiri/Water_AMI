@@ -3,6 +3,8 @@ This repository provides source code for this paper
 
 [A Cost-Effective CNN-LSTM-Based Solution for Predicting Faulty Remote Water Meter Reading Devices in AMI Systems](https://www.mdpi.com/1424-8220/21/18/6229)
 
+and Some additional version by SouthGiri
+
 ## Requirement
 - numpy 1.19.5
 - pandas 1.3.5
